@@ -41,7 +41,7 @@
                 "--network=host"
         ],
         "workspaceFolder": "/workspaces/devpod",
-        "workspaceMount": "source=/root/.devpod/agent/contexts/default/workspaces/vscode-devpod/content,target=/workspaces/devpod,type=bind"
+        "workspaceMount": "source=/root/.devpod/agent/contexts/default/workspaces/vscode-remote-try-node/content,target=/workspaces/devpod,type=bind"
         // Use 'postCreateCommand' to run commands after the container is created.
         // "postCreateCommand": "yarn install"
 
